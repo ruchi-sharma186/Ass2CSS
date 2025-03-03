@@ -101,7 +101,7 @@ body{
     height: 800px;
     width: 450px;
     color: red;
-    padding-left: 100px;
+    text-align: center;
     font-size: large;
     font-weight: 200;
     justify-content: center;
